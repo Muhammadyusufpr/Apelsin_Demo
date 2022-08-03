@@ -1,0 +1,9 @@
+### create
+POST http://localhost:8080/v1/card
+Content-Type: application/json
+
+{
+  "name": "pdp card",
+  "number": "86001231231231",
+  "expDate": "12/24"
+}
